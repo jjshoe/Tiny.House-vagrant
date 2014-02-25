@@ -1,0 +1,25 @@
+{
+  "sources": {
+    "apt": {
+      "locked_version": "2.3.8"
+    },
+    "ruby_build": {
+      "locked_version": "0.8.1",
+      "git": "https://github.com/fnichol/chef-ruby_build.git",
+      "ref": "4d3361995a6953076951693eff1b326ab499fe1e"
+    },
+    "rbenv": {
+      "locked_version": "0.7.2",
+      "git": "https://github.com/jjshoe/chef-rbenv.git",
+      "ref": "f2b53292e810dd2b43f6121f9958f5f29979dcb1"
+    },
+    "Tiny.House": {
+      "locked_version": "0.0.1",
+      "git": "https://github.com/jjshoe/Tiny.House-chef",
+      "ref": "18671500c837ae1b7de6815ee82a6961b37c59d7"
+    },
+    "java": {
+      "locked_version": "1.19.2"
+    }
+  }
+}
