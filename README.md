@@ -9,3 +9,4 @@ Requirements
 1. Download vagrant http://www.vagrantup.com/downloads.html  
 2. `vagrant plugin install vagrant-berkshelf` 
 3. `vagrant plugin install vagrant-omnibus`
+4. Install a git client
